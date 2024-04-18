@@ -1,2 +1,2 @@
-# Work
-Some code to represent some work I have done. Most of the work I have done with companies are being used in products so I had to sign an NDA (geheimhoudingsverklaring).
+incl/classes.php is where most of the work has been put in and is also the core of the project connecting everything together.
+The goal was to create a schoolsystem which was at the very least futureproof incase anything has to change in the future.
